@@ -1,5 +1,5 @@
 # pearlmart inventory managment system 
-##team members 
+## team members 
 
 | name         | GitHub username |
 -------------------------------------
