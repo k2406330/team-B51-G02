@@ -13,4 +13,4 @@
 - **Developers:** Noof Alyafei, Laraib Khan
 
 ## Github project 
-https://github.com/users/k2406330/projects/2/views/1
+https://github.com/k2406330/team-B51-G02
