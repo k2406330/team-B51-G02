@@ -1,16 +1,16 @@
-# pearlmart inventory managment system 
-## team members 
+# PearlMart Inventory Management System 
+## Team Members: 
 
-| name         | GitHub username |
+| Name         | GitHub Username |
 ---------------|-------------------|
-|kaltham alkubaisi  | k2406330 |
-|noof alyafei   |    noufAlyafei|
-|laraib khan   | Laraib-Khan-Space|
+|Kaltham Alkubaisi  | k2406330 |
+|Noof Alyafei   |    noufAlyafei|
+|Laraib Khan   | laraib-ls2407495|
 
 ## Scurm Responsibilities 
-- ** product owner :** Eng.Fatima Hamza 
-- ** Scrum master :** kaltham alkubaisi 
-- ** developers:** noof alyafei, laraib khan
+- **Product Owner:** Eng.Fatima Hamza 
+- **Scrum master:** Kaltham Alkubaisi 
+- **Developers:** Noof Alyafei, Laraib Khan
 
 ## Github project 
-https://github.com/users/k2406330/projects/2/views/1
+https://github.com/k2406330/team-B51-G02
